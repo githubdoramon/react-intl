@@ -1,6 +1,6 @@
 {
-  "name": "react-intl",
-  "version": "2.4.0",
+  "name": "react-intl-ioa",
+  "version": "1.0.0",
   "description": "Internationalize React apps. This library provides React components and an API to format dates, numbers, and strings, including pluralization and handling translations.",
   "keywords": [
     "intl",
@@ -16,11 +16,8 @@
     "translate",
     "translation"
   ],
-  "author": "Eric Ferraiuolo <edf@ericf.me>",
-  "contributors": [
-    "Caridy Patino <caridy@gmail.com>"
-  ],
-  "license": "BSD-3-Clause",
+  "author": "Ramon Canales <ramon.canales@internetofartists.com>",
+  "license": "UNLICENSED",
   "homepage": "https://github.com/yahoo/react-intl",
   "bugs": {
     "url": "https://github.com/yahoo/react-intl/issues"
